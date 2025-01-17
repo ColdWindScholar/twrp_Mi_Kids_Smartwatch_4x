@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/Xiaoxun/Mi Kids Smartwatch
+DEVICE_PATH := device/Xiaoxun/Mi_Kids_Smartwatch
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
