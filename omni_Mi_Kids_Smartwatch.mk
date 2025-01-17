@@ -14,8 +14,8 @@ $(call inherit-product, vendor/omni/config/common.mk)
 # Inherit from Mi Kids Smartwatch device
 $(call inherit-product, device/xiaoxun/Mi_Kids_Smartwatch/device.mk)
 
-PRODUCT_DEVICE := Mi Kids Smartwatch
-PRODUCT_NAME := omni_Mi Kids Smartwatch
+PRODUCT_DEVICE := Mi_Kids_Smartwatch
+PRODUCT_NAME := omni_Mi_Kids_Smartwatch
 PRODUCT_BRAND := Xiaoxun
 PRODUCT_MODEL := MiKidsWatch
 PRODUCT_MANUFACTURER := xiaoxun
