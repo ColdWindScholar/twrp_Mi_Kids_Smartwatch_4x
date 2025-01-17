@@ -40,7 +40,7 @@ BOARD_MKBOOTIMG_ARGS += --ramdisk_offset $(BOARD_RAMDISK_OFFSET)
 BOARD_MKBOOTIMG_ARGS += --tags_offset $(BOARD_KERNEL_TAGS_OFFSET)
 BOARD_KERNEL_IMAGE_NAME := Image
 BOARD_KERNEL_SEPARATED_DT := true
-TARGET_KERNEL_CONFIG := Mi Kids Smartwatch_defconfig
+TARGET_KERNEL_CONFIG := Mi_Kids_Smartwatch_defconfig
 TARGET_KERNEL_SOURCE := kernel/xiaoxun/Mi_Kids_Smartwatch
 
 # Kernel - prebuilt
