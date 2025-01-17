@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/Xiaoxun/Mi Kids Smartwatch
+LOCAL_PATH := device/Xiaoxun/Mi_Kids_Smartwatch
