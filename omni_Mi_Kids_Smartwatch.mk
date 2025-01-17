@@ -12,7 +12,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit from Mi Kids Smartwatch device
-$(call inherit-product, device/xiaoxun/Mi_Kids_Smartwatch/device.mk)
+$(call inherit-product, device/Xiaoxun/Mi_Kids_Smartwatch/device.mk)
 
 PRODUCT_DEVICE := Mi_Kids_Smartwatch
 PRODUCT_NAME := omni_Mi_Kids_Smartwatch
